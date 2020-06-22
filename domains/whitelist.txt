@@ -170,3 +170,8 @@ tsfe.trafficshaping.dsp.mp.microsoft.com
 pro.ip-api.com
 reports.crashlytics.com
 v20.events.data.microsoft.com
+wellsfargo.com
+wellsfargo.net
+threatpulse.com
+ent.wfb.bank.corp
+avast.com
